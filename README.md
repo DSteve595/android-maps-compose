@@ -1,3 +1,4 @@
+hello
 ![Tests](https://github.com/googlemaps/android-maps-compose/actions/workflows/test.yml/badge.svg)
 ![Stable](https://img.shields.io/badge/stability-stable-green)
 [![Discord](https://img.shields.io/discord/676948200904589322)][Discord channel]
